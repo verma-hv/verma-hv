@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @verma-hv
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi there, I'm Harshit Verma 👋
+🚀 About Me
+💻 Passionate Full Stack Web Developer and Android Developer
+🎨 Graphic Designer with an eye for clean and modern UI/UX
+🎓 MCA Student passionate about building real-world applications
+🌱 Currently learning Advanced MERN Stack, Android Development (Kotlin & Jetpack Compose), and Cloud Technologies
+👀 Interested in Web Development, Mobile App Development, Open Source, AI, and UI/UX Design
+💞️ Looking to collaborate on Open Source Projects, Full Stack Applications, and Android Apps
+📫 Reach me at: your-vermahv22@gmail.com
+🌐 Portfolio: 
+😄 Pronouns: He/Him
+⚡ Fun Fact: I enjoy turning everyday problems into useful software solutions and love learning new technologies.
 
 <!---
 verma-hv/verma-hv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
